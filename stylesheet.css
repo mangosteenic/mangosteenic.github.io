@@ -1,0 +1,22 @@
+body {
+    background-color: #292929;
+    color: white;
+}
+
+.row {
+    display: flex;
+}
+  
+.column {
+    flex: 50%;
+    margin: 20px;
+    padding: 20px;
+}
+
+#header {
+    color: #E48312
+}
+
+a:hover {
+    color: #E48312;
+}
